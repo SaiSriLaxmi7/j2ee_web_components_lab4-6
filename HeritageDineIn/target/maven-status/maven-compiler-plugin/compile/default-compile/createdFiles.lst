@@ -1,0 +1,7 @@
+com\humber\menu\dao\MenuItemDAO.class
+com\humber\menu\util\HibernateTest.class
+com\humber\menu\model\MenuItem.class
+com\humber\menu\util\HibernateUtil.class
+com\humber\menu\model\Category.class
+com\humber\menu\dao\CategoryDAO.class
+com\humber\menu\servlet\MenuServlet.class
